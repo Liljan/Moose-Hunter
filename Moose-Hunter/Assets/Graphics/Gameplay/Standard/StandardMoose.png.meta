@@ -1,9 +1,43 @@
 fileFormatVersion: 2
 guid: 7a88b5ebd6308374fb61aab5f02f30e4
-timeCreated: 1514672676
+timeCreated: 1514675759
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: StandardMoose_0
+    21300002: StandardMoose_1
+    21300004: StandardMoose_2
+    21300006: StandardMoose_3
+    21300008: StandardMoose_4
+    21300010: StandardMoose_5
+    21300012: StandardMoose_6
+    21300014: StandardMoose_7
+    21300016: StandardMoose_8
+    21300018: StandardMoose_9
+    21300020: StandardMoose_10
+    21300022: StandardMoose_11
+    21300024: StandardMoose_12
+    21300026: StandardMoose_13
+    21300028: StandardMoose_14
+    21300030: StandardMoose_15
+    21300032: StandardMoose_16
+    21300034: StandardMoose_17
+    21300036: StandardMoose_18
+    21300038: StandardMoose_19
+    21300040: StandardMoose_20
+    21300042: StandardMoose_21
+    21300044: StandardMoose_22
+    21300046: StandardMoose_23
+    21300048: StandardMoose_24
+    21300050: StandardMoose_25
+    21300052: StandardMoose_26
+    21300054: StandardMoose_27
+    21300056: StandardMoose_28
+    21300058: StandardMoose_29
+    21300060: StandardMoose_30
+    21300062: StandardMoose_31
+    21300064: StandardMoose_32
+    21300066: StandardMoose_33
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +68,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +92,475 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: StandardMoose_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1202.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1202.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_2
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1202.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_3
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1202.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_4
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1202.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_5
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1202.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_6
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 1202.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_7
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 1202.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_8
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 1202.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 802.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_10
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 802.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_11
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 802.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_12
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 802.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_13
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 802.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_14
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 802.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_15
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 802.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_16
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 802.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_17
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 802.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_19
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 402.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_20
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 402.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_21
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 402.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_22
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 402.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_23
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 402.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_24
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 402.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_25
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 402.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_27
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_28
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_29
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_30
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 2.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_31
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 2.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_32
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 2.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandardMoose_33
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 2.25
+        width: 401
+        height: 400.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
